@@ -1,4 +1,4 @@
-# Squat Detector using Deep Learning
+# Squat Detector Using Deep Learning
 
 
 ![Python-version](https://img.shields.io/badge/Python-3.8.3-green.svg)
