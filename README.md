@@ -30,7 +30,7 @@ The input shape is 320x240x1,and following figure is the training result.
  <img src="Images/result.png" width=500px height=180px>
 As you see I have validation loss 0.3906 and validation accuracy ~80%.
 
-## Model
+## CNN Model
 <img src="Images/Model.svg" width=200px height=1200px>
 
 ## Counting Squats
