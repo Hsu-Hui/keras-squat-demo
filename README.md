@@ -18,7 +18,7 @@ $ pip install tensorflow
 ```
 
 ## Collecting Dataset
-Collect 320 pictures in three categories in different backgrounds and different costumes:
+Collect pictures in three categories in different backgrounds and different costumes:
 - Upper: Standing,and knee bend angle is greater than 160 degrees.
 - Middle: Start squatting, bend the knees at an angle of about 90 degrees.
 - Lower: Squating, knee bend angle is less than 60 degrees.
